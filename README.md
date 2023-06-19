@@ -1,4 +1,4 @@
-# 👋 Hi, there's! I'm Andrew Meares! 
+# 👋 Hi! I'm Andrew Meares! 
 
 I'm a 🎓 graduate of the University of San Diego California with a Bachelor of Science degree in Electrical Engineering (BSEE). As a Power Electronics Engineer, my specialties include Digital Signal Processing and Control Systems for Power Conversion. I am passionate about technology, options trading, and of course, 🧀 cheese! 
 
