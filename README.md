@@ -4,7 +4,7 @@ I am a 🎓 graduate of the University of San Diego California with a Bachelor o
 
 ## Technical Papers
 Here are some technical papers that I would like to share.
-- 📝 [DM Flyback Transformer Design](https://github.com/ameares/technical-papers/DM Flyback Transformer Design.pdf)
+- 📝 [DM Flyback Transformer Design](https://github.com/ameares/technical-papers/DM%20Flyback%20Transformer%20Design.pdf)
 - 📝 [MPPT Inductor Design]https://github.com/ameares/technical-papers/MPPT Inductor Design.pdf)
 
 ## 📫 Reach Me 
