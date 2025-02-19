@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Andrew Meares! 
 
-I am a 🎓 graduate of the University of San Diego California with a Bachelor of Science degree in Electrical Engineering (BSEE). As a Power Electronics Engineer, my specialties include Digital Signal Processing and Control Systems for Power Conversion. I am passionate about technology, investing, and of course, 🧀 cheese!
+I am a 🎓 graduate of the University of San Diego California with a Bachelor of Science degree in Electrical Engineering (BSEE). As a power electronics engineer, my specialties include digital signal processing and control systems for power conversion. I am passionate about technology, investing, and of course, 🧀 cheese!
 
 ## Technical Papers
 Here are some technical papers that I would like to share.
