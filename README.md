@@ -6,6 +6,8 @@ I am a graduate of the University of San Diego California with a Bachelor of Sci
 My FPV Drone ExpressLRS Receiver project is underway!
 - [SB ELRS V0.2](https://github.com/ameares/sb-elrs)
 
+![Board Front](https://github.com/ameares/sb-elrs/docs/images/board-front.png)
+
 ## Technical Papers
 Here are some technical papers that I would like to share.
 - 📝 [MPPT Inductor Design](https://github.com/ameares/technical-papers/blob/main/MPPT%20Inductor%20Design.pdf)
