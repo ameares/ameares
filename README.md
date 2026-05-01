@@ -3,7 +3,7 @@
 I am a graduate of the University of San Diego California with a Bachelor of Science degree in Electrical Engineering (BSEE). As a power electronics engineer, my specialties include digital signal processing and control systems for power conversion. I am passionate about technology, investing, and of course, 🧀 cheese!
 
 ## PCB Design
-My FPV Drone ExpressLRS Receiver project:
+My FPV Drone ExpressLRS Receiver project.
 - [SB ELRS V0.2](https://github.com/ameares/sb-elrs)
 
 ![Board Front](https://github.com/ameares/sb-elrs/blob/main/docs/images/board-front.png)
